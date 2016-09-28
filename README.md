@@ -15,5 +15,5 @@
 
 ***img:***
 
-![img](http://hivirile.com/image/nobu.jpg)
+http://hivirile.com/image/nobu.jpg
 
