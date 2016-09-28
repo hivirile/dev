@@ -12,3 +12,7 @@
 
 ## add point *** end ***
 ------------------------
+
+***img:***
+
+![img](http://hivirile.com/image/nobu.jpg)
